@@ -1,0 +1,56 @@
+@charset "iso-8859-1";
+body {
+ 	background: #ffffff; 
+	color: #000000;
+	font-family: Veranda, Arial, Tahoma;
+}	
+a:link {
+	color: #639ec8;
+	border:	0px;
+	text-decoration: none;
+}
+a:hover {
+   	color: black;
+	text-decoration: none;
+}
+a:visited {
+	color:#5383A8;
+	text-decoration: none;
+} 
+
+#framit { 
+	position: absolute;
+	padding: 0;
+	background: #ffffff url(images/noplague.jpg) no-repeat;
+	display: table;
+	width: 900px;
+	height: 900px;
+}
+#content {
+	position: relative;
+	margin:-698px 222px;
+	width: 700px;
+	height: 485px;
+	padding: 0px;
+	overflow: auto;
+	scrollbar-track-color: #ffffff;
+	scrollbar-face-color: #ffffff;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-highlight-color: #e8e8e8;
+	scrollbar-darkshadow-color: #ffffff;
+	scrollbar-shadow-color: #e8e8e8;
+	scrollbar-arrow-color: #e8e8e8;
+}
+#splinks {
+	list-style: none;
+	padding: 0;
+	margin:180px 28px;
+	width: 164px;
+	height: 526px;
+	position: relative;	
+}
+#footie {
+	position: relative;
+	margin: 756px 325px;
+	width:350px; 
+}

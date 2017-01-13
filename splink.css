@@ -1,0 +1,71 @@
+/*
+              !! WARNING !!								   
+
+DO NOT change ANYTHING other than the url paths in this file.
+If you do, your links menu will self-destruct!
+
+*/
+
+#splinks a {
+	display: block;
+	position: absolute;
+	outline: none;
+	width: 107px;
+	height: 46px;
+	left: 47px;
+}
+#splinks a:hover {
+	background-position: left bottom;
+}
+#splinks .res {
+	background: url(images/resume.gif) no-repeat;
+}
+#splinks .bio {
+	background: url(images/biog.gif) no-repeat;
+	top: 51px;
+}
+#splinks .exh {
+	background: url(images/exhib.gif) no-repeat;
+	top: 102px;
+}
+
+/* The following three urls should be all you ever need change
+   I'm sure you can figure it out.  Just change the file name to
+   correspond to the appropriate .gif  
+   
+   Again, Label Menu
+   new = current year
+   ym1 = current minus 1 year
+   ym2 = current minus 2 years      */
+   
+#splinks .new {
+	background: url(images/2009.gif) no-repeat;
+	top: 153px;
+}
+#splinks .ym1 {
+	background: url(images/2008.gif) no-repeat;
+	top: 204px;
+}
+#splinks .ym2 {
+	background: url(images/2007.gif) no-repeat;
+	top: 256px;
+}	
+
+/*  NO TOUCHY BELOW THIS POINT */
+
+#splinks .arc {
+	background: url(images/arch.gif) no-repeat;
+	top: 307px;
+}
+#splinks .con {
+	background: url(images/cont.gif) no-repeat;
+	top: 358px;
+}
+#splinks .blo {
+	background: url(images/blog.gif) no-repeat;
+	top: 410px;
+}
+#splinks .hom {
+	background: url(images/home.gif) no-repeat;
+	top: 462px;
+}

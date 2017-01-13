@@ -1,6 +1,6 @@
 <?php /* Created on: 11/01/2008 */ ?>
 <div id="footie" class="centered">
-<img src="images/b1.gif" width="50" height="33" alt="" />&nbsp;&nbsp; 
+<img src="images/b1.gif" width="50" height="33" alt="" />&nbsp;&nbsp;
 <a href="mailto:
  &lt;script type='text/javascript'>
  &lt;!--
@@ -42,8 +42,8 @@
  document.write( '</' );
  document.write( 'span>' );
  //-->
- </script></a>&nbsp;&nbsp; 
-<img src="images/b2.gif" width="50" height="33" alt="" />  
+ </script></a>&nbsp;&nbsp;
+<img src="images/b2.gif" width="50" height="33" alt="" />
 </div>
 
 </div>
